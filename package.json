@@ -1,0 +1,16 @@
+{
+  "name": "base_nodejs_project_template",
+  "version": "1.0.0",
+  "description": "basis nodejs project to get your started. it is based on MVC architecture.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "parmod",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "http-status-codes": "^2.2.0"
+  }
+}
